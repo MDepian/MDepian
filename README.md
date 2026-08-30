@@ -1,11 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Mahmoud DEPIAN</h1>
+  <h1>Hi , I'm Mahmoud DEPIAN</h1>
   <h3>Azure Cloud Engineer | Designing Cloud Solutions to Solve Business & IT Challenges</h3>
   <p><b>Active Community Member @ Cloud Mechanics</b></p>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-depian)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mahmoud.Depian@cloudmechanics.ai)
-</div>
 
 ---
 
